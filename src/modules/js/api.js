@@ -18,7 +18,7 @@ let url={
     addressUpdate:'/address/update',
     addressSetDefault:'/address/setDefault',
 }
-let host ='http://rap2api.taobao.org/app/mock/164470'
+let host ='rap2api.taobao.org/app/mock/164470'
 
 for (const key in url) {
     if (url.hasOwnProperty(key)) {
